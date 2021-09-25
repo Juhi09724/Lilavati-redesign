@@ -1,10 +1,6 @@
 {
   "name": "my-website",
-<<<<<<< Updated upstream
-  "homepage": "https://Juhi09724.github.io/lilavati-redesign/",
-=======
-  "homepage": "https://Juhi09724.github.io/lilavati-redesign/ ",
->>>>>>> Stashed changes
+  "homepage": "https://Juhi09724.github.io/Lilavati-redesign/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
