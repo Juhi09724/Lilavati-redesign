@@ -7,7 +7,7 @@ import Confirmation from './Pages/Confirmation.js'
 import Profile from './Pages/Profile.js'
 import PrimarySearchAppBar from './Components/AppBarSearch';
 import Appointments from './Pages/Appointments.js'
-import Sample from './Pages/Sample.js'
+
 
 function App() {
   return (
@@ -25,7 +25,6 @@ function App() {
             <Route path={process.env.PUBLIC_URL + '/confirmation'}  > <Confirmation/> </Route>
             <Route path={process.env.PUBLIC_URL + '/profile'}  > <Profile/> </Route>
             <Route path={process.env.PUBLIC_URL + '/appointments'}  > <Appointments/> </Route>
-            <Route path={process.env.PUBLIC_URL + '/sample'}  > <Sample/> </Route>
           </Switch>
 
       <footer className="App-footer">
