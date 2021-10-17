@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Lilavati-redesign/static/css/main.af840fbd.chunk.css",
+    "main.css": "/Lilavati-redesign/static/css/main.57ed5390.chunk.css",
     "main.js": "/Lilavati-redesign/static/js/main.51169a90.chunk.js",
     "main.js.map": "/Lilavati-redesign/static/js/main.51169a90.chunk.js.map",
     "runtime-main.js": "/Lilavati-redesign/static/js/runtime-main.827b0c14.js",
@@ -8,7 +8,7 @@
     "static/js/2.2ddabf37.chunk.js": "/Lilavati-redesign/static/js/2.2ddabf37.chunk.js",
     "static/js/2.2ddabf37.chunk.js.map": "/Lilavati-redesign/static/js/2.2ddabf37.chunk.js.map",
     "index.html": "/Lilavati-redesign/index.html",
-    "static/css/main.af840fbd.chunk.css.map": "/Lilavati-redesign/static/css/main.af840fbd.chunk.css.map",
+    "static/css/main.57ed5390.chunk.css.map": "/Lilavati-redesign/static/css/main.57ed5390.chunk.css.map",
     "static/js/2.2ddabf37.chunk.js.LICENSE.txt": "/Lilavati-redesign/static/js/2.2ddabf37.chunk.js.LICENSE.txt",
     "static/media/DoctorImg.1c7a1d75.jpg": "/Lilavati-redesign/static/media/DoctorImg.1c7a1d75.jpg",
     "static/media/banners.119cc14d.jpg": "/Lilavati-redesign/static/media/banners.119cc14d.jpg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.827b0c14.js",
     "static/js/2.2ddabf37.chunk.js",
-    "static/css/main.af840fbd.chunk.css",
+    "static/css/main.57ed5390.chunk.css",
     "static/js/main.51169a90.chunk.js"
   ]
 }
