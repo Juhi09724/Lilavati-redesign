@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  background-color: #F1FFFB;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: lighter;
+
 }
 
 .App-logo {
@@ -7,13 +11,13 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: black;
   color: white;
 }
 
 .App-footer {
-  background-color: #282c34;
-  color: white;
+  background-color: white;
+  color: black;
   position: fixed;
   left: 0;
   bottom: 0;
