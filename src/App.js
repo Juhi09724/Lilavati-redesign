@@ -15,21 +15,6 @@ import { makeStyles } from '@material-ui/core/styles';
 import HotlinesPopup from './Components/HotlinesPopup';
 
 
-const useStyles = makeStyles({
-  App: {
-    backgroundColor: "#F1FFFB",
-    // backgroundColor: "#ffffff",
-    height: "100%",
-  },
-
-  FAB: {
-    position: "fixed",
-    top: '80%',
-    right: '5%',
-  },
-});
-
-
 function App() {
   return (
     <div className="App">
@@ -53,9 +38,7 @@ function App() {
         <AppFooter />
       </Box>
 
-      <Box className={classes.FAB}>
-        <HotlinesPopup/>
-      </Box>
+      
 
     </div>
   );
