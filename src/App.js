@@ -13,7 +13,8 @@ import AppFooter from './Components/AppFooter.js';
 import GlobalAppBar from './Components/GlobalAppBar';
 import { makeStyles } from '@material-ui/core/styles';
 import HotlinesPopup from './Components/HotlinesPopup';
-
+import Grid from '@material-ui/core/Grid';
+import SimpleDialogDemo from './Components/EmergencyOpen';
 
 function App() {
   return (
@@ -38,7 +39,10 @@ function App() {
         <AppFooter />
       </Box>
 
-      
+      <Grid container spacing={-8} justifyContent="flex-end">
+        <SimpleDialogDemo/>
+      </Grid>
+
 
     </div>
   );
