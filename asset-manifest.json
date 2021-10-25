@@ -1,23 +1,33 @@
 {
   "files": {
     "main.css": "/Lilavati-redesign/static/css/main.57ed5390.chunk.css",
-    "main.js": "/Lilavati-redesign/static/js/main.51169a90.chunk.js",
-    "main.js.map": "/Lilavati-redesign/static/js/main.51169a90.chunk.js.map",
+    "main.js": "/Lilavati-redesign/static/js/main.cefa3b2f.chunk.js",
+    "main.js.map": "/Lilavati-redesign/static/js/main.cefa3b2f.chunk.js.map",
     "runtime-main.js": "/Lilavati-redesign/static/js/runtime-main.827b0c14.js",
     "runtime-main.js.map": "/Lilavati-redesign/static/js/runtime-main.827b0c14.js.map",
-    "static/js/2.2ddabf37.chunk.js": "/Lilavati-redesign/static/js/2.2ddabf37.chunk.js",
-    "static/js/2.2ddabf37.chunk.js.map": "/Lilavati-redesign/static/js/2.2ddabf37.chunk.js.map",
+    "static/js/2.984f626e.chunk.js": "/Lilavati-redesign/static/js/2.984f626e.chunk.js",
+    "static/js/2.984f626e.chunk.js.map": "/Lilavati-redesign/static/js/2.984f626e.chunk.js.map",
     "index.html": "/Lilavati-redesign/index.html",
     "static/css/main.57ed5390.chunk.css.map": "/Lilavati-redesign/static/css/main.57ed5390.chunk.css.map",
-    "static/js/2.2ddabf37.chunk.js.LICENSE.txt": "/Lilavati-redesign/static/js/2.2ddabf37.chunk.js.LICENSE.txt",
-    "static/media/DoctorImg.1c7a1d75.jpg": "/Lilavati-redesign/static/media/DoctorImg.1c7a1d75.jpg",
-    "static/media/banners.119cc14d.jpg": "/Lilavati-redesign/static/media/banners.119cc14d.jpg",
-    "static/media/logo.355735b3.svg": "/Lilavati-redesign/static/media/logo.355735b3.svg"
+    "static/js/2.984f626e.chunk.js.LICENSE.txt": "/Lilavati-redesign/static/js/2.984f626e.chunk.js.LICENSE.txt",
+    "static/media/Emergency.11a1eaec.svg": "/Lilavati-redesign/static/media/Emergency.11a1eaec.svg",
+    "static/media/LHLogo.15b83ec9.svg": "/Lilavati-redesign/static/media/LHLogo.15b83ec9.svg",
+    "static/media/MenuCol.7ebca03a.svg": "/Lilavati-redesign/static/media/MenuCol.7ebca03a.svg",
+    "static/media/Req.6fa88e8c.svg": "/Lilavati-redesign/static/media/Req.6fa88e8c.svg",
+    "static/media/banners.98a3d4b9.jpg": "/Lilavati-redesign/static/media/banners.98a3d4b9.jpg",
+    "static/media/facebook.8bdeffe6.svg": "/Lilavati-redesign/static/media/facebook.8bdeffe6.svg",
+    "static/media/insta.44802476.svg": "/Lilavati-redesign/static/media/insta.44802476.svg",
+    "static/media/linkedin.7eb7011c.svg": "/Lilavati-redesign/static/media/linkedin.7eb7011c.svg",
+    "static/media/logo.355735b3.svg": "/Lilavati-redesign/static/media/logo.355735b3.svg",
+    "static/media/menu.d7841bc5.svg": "/Lilavati-redesign/static/media/menu.d7841bc5.svg",
+    "static/media/search.273dc18a.svg": "/Lilavati-redesign/static/media/search.273dc18a.svg",
+    "static/media/twitter.e2720e46.svg": "/Lilavati-redesign/static/media/twitter.e2720e46.svg",
+    "static/media/yt.e6376d69.svg": "/Lilavati-redesign/static/media/yt.e6376d69.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.827b0c14.js",
-    "static/js/2.2ddabf37.chunk.js",
+    "static/js/2.984f626e.chunk.js",
     "static/css/main.57ed5390.chunk.css",
-    "static/js/main.51169a90.chunk.js"
+    "static/js/main.cefa3b2f.chunk.js"
   ]
 }
