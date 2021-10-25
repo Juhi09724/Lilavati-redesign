@@ -5,22 +5,27 @@ import FormPropsTextFields from '../Components/FormProps';
 import ContainedButtons2 from '../Components/Button2';
 import MaterialUIPickers from '../Components/DatePicker';
 import Grid from '@material-ui/core/Grid';
-
+import InfoCard from '../Components/InfoCard';
+import { makeStyles } from '@material-ui/core/styles';
+const useStyles = makeStyles({
+    App: {
+      background: "#F1FFFB",
+      height: "100%",
+      alignContent: "center", alignItems: "center",
+    },
+  });
 
 
 export default function Form() {
-    return (
-        <React.Fragment>
-            <Container fixed > 
-
-            <Grid container spacing={2}>
-             <Grid item xs={6}sm={12}xl={12}>
-                <FormPropsTextFields/> 
-                <ContainedButtons/>
-                <ContainedButtons2/>
-                </Grid>
-                </Grid>
-            </Container>
-        </React.Fragment>
-    );
+    const classes = useStyles();
+  return (
+    <div className={classes.App}>
+    <React.Fragment>
+        <Container fixed>
+            <InfoCard/>
+           
+        </Container>
+    </React.Fragment>
+    </div>
+  );
 }

@@ -21,7 +21,7 @@ function App() {
     <div className="App">
       {/* Header (Navigation Bar) */}
       <header className="App-header">
-        <GlobalAppBar/>
+        <GlobalAppBar />
       </header>
 
       {/* Router - Pages */}
@@ -35,13 +35,13 @@ function App() {
         <Route path={process.env.PUBLIC_URL + '/appointments'}  > <Appointments /> </Route>
       </Switch>
 
+      <Grid container spacing={-8} justifyContent="flex-end">
+        <SimpleDialogDemo />
+      </Grid>
+
       <Box>
         <AppFooter />
       </Box>
-
-      <Grid container spacing={-8} justifyContent="flex-end">
-        <SimpleDialogDemo/>
-      </Grid>
 
 
     </div>
