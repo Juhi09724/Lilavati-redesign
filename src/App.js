@@ -7,9 +7,7 @@ import Confirmation from './Pages/Confirmation.js'
 import Profile from './Pages/Profile.js'
 import PrimarySearchAppBar from './Components/AppBarSearch';
 import Appointments from './Pages/Appointments.js'
-import Landing from './Pages/Landing.js';
 import Box from '@material-ui/core/Box';
-import AppFooter from './Components/AppFooter.js';
 import GlobalAppBar from './Components/GlobalAppBar';
 import { makeStyles } from '@material-ui/core/styles';
 import HotlinesPopup from './Components/HotlinesPopup';
@@ -27,8 +25,7 @@ function App() {
 
       {/* Router - Pages */}
       <Switch>
-        <Route path={process.env.PUBLIC_URL + '/'} exact > <Landing /> </Route>
-        <Route path={process.env.PUBLIC_URL + '/landing'}  > <Landing /> </Route>
+        <Route path={process.env.PUBLIC_URL + '/'} exact > <Home/> </Route>
         <Route path={process.env.PUBLIC_URL + '/home'} > <Home /> </Route>
         <Route path={process.env.PUBLIC_URL + '/form'}  > <Form /> </Route>
         <Route path={process.env.PUBLIC_URL + '/confirmation'}  > <Confirmation /> </Route>
@@ -41,7 +38,7 @@ function App() {
       </Grid>
 
       <Box>
-        <AppFooter />
+        This the AppFooter
       </Box>
 
 
